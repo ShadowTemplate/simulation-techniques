@@ -1,0 +1,12 @@
+digraph "/home/asuglia/Python/tes/jobshop" {
+  compound=true
+  node [ fontsize="10", fontname="Helvetica"];
+  edge [ labelfontsize="10", labelfontname="Helvetica"];
+  subgraph clusterdir_01ce514452384cd620dcfea603ec1bf6 {
+    graph [ bgcolor="#eeeeff", pencolor="black", label="" URL="dir_01ce514452384cd620dcfea603ec1bf6.html"];
+    dir_01ce514452384cd620dcfea603ec1bf6 [shape=plaintext label="jobshop"];
+    dir_36e4161802f4eb6afa54efb81c6176f3 [shape=box label="entity" color="black" fillcolor="white" style="filled" URL="dir_36e4161802f4eb6afa54efb81c6176f3.html"];
+    dir_5d873b106b8230ab2bdfb6dab646b57d [shape=box label="misc" color="black" fillcolor="white" style="filled" URL="dir_5d873b106b8230ab2bdfb6dab646b57d.html"];
+    dir_1518879487fe00519bbd8a921609aaf7 [shape=box label="statistics" color="black" fillcolor="white" style="filled" URL="dir_1518879487fe00519bbd8a921609aaf7.html"];
+  }
+}

@@ -1,0 +1,9 @@
+digraph "/home/asuglia/Python/tes/jobshop/misc" {
+  compound=true
+  node [ fontsize="10", fontname="Helvetica"];
+  edge [ labelfontsize="10", labelfontname="Helvetica"];
+  subgraph clusterdir_01ce514452384cd620dcfea603ec1bf6 {
+    graph [ bgcolor="#ddddee", pencolor="black", label="jobshop" fontname="Helvetica", fontsize="10", URL="dir_01ce514452384cd620dcfea603ec1bf6.html"]
+  dir_5d873b106b8230ab2bdfb6dab646b57d [shape=box, label="misc", style="filled", fillcolor="#eeeeff", pencolor="black", URL="dir_5d873b106b8230ab2bdfb6dab646b57d.html"];
+  }
+}
